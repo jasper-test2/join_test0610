@@ -1,1 +1,2 @@
-printf("Hello, world!")
+name = imput("Please input your name: ")
+printf("Hello, %s!", name)

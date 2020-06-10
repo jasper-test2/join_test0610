@@ -1,2 +1,2 @@
 # test0610
-This is used to test basic functions
+This version adds the user name in the output.
