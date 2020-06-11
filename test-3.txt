@@ -1,0 +1,1 @@
+This is another file used together with test-2.txt

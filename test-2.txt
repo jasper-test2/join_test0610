@@ -1,0 +1,1 @@
+This is to test adding two files together and what will appear as the commit information.
