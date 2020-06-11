@@ -1,2 +1,1 @@
-# test0610
-This version adds the user name in the output.
+This is test for write README.md in gedit.
