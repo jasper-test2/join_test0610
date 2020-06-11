@@ -1,0 +1,1 @@
+This document is made for commit a file by a contributor and test if it can be merged by contributor, or it can only be merged after the permission of host.
